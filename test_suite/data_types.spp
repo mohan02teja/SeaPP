@@ -1,0 +1,18 @@
+int main(){
+    int i;
+    float j;
+
+    j=12.2;
+    
+    double k;
+    char ch;
+
+    ch='1';
+
+    char c[10]="";
+    
+    int i=+10;
+    i=-20;
+
+    int j[10];
+}

@@ -1,0 +1,11 @@
+int main(){
+    int i;
+    //Single line comment
+
+    /*2 lines
+    comment*/
+
+    i=10;
+
+    /*in line comment*/ i++;
+}

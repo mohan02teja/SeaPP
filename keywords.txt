@@ -1,0 +1,8 @@
+int INTEGER
+float FLOAT
+main MAIN
+return RETURN
+char CHARACTER
+include INCLUDE
+using USING
+namespace NAMESPACE

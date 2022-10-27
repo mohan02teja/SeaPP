@@ -1,0 +1,6 @@
+int main(){
+    char ch='12';
+    ch='';
+    float f=1.2.3;
+    int hello~;
+}
